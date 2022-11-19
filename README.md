@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/CatTailzz">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CatTailzz&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&card_width=400"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CatTailzz&count_private=true&theme=algolia&show_icons=true&include_all_commits=true"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatTailzz&layout=compact&theme=algolia"/>
     </a>
 </p>
