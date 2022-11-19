@@ -4,7 +4,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatTailzz&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CatTailzz&count_private=true&theme=dracula&show_icons=true&include_all_commits=true"/>
+    
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatTailzz&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatTailzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
