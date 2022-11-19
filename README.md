@@ -1,17 +1,18 @@
-### Hi there 👋 I’m CatTail
-
+### Hi there 👋 I’m CatTail <img src="https://komarev.com/ghpvc/?username=CatTailzz&color=brightgreen">
+🤗🤗
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CatTailzz&count_private=true&theme=dracula&show_icons=true&include_all_commits=true"/>
-    
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CatTailzz&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatTailzz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <a href="https://github.com/CatTailzz">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CatTailzz&count_private=true&theme=algolia&show_icons=true&include_all_commits=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatTailzz&layout=compact&theme=algolia"/>
+    </a>
 </p>
-![](https://komarev.com/ghpvc/?username=CatTailzz&color=brightgreen)
 
-<a href="https://leetcode-cn.com/u/cattailjj/">
-    <img src="https://fc.dianhsu.top/lc?user=cattailjj&loc=cn&req=rating">
-</a>
+### 🧑‍💻 &nbsp;More...
+<p align="center">
+    <a href="https://leetcode-cn.com/u/cattailjj/">
+        <img src="https://fc.dianhsu.top/lc?user=cattailjj&loc=cn&req=rating">
+    </a>
+</p>
