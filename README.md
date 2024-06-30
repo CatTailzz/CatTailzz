@@ -18,7 +18,7 @@
     <a href="https://leetcode-cn.com/u/cattailjj/">
         <img src="https://leetcode-badge.haozibi.dev/v1cn/solved/cattailjj.svg?style=for-the-badge&logo=leetcode">
     </a>
-    <a href="https://now.404.com/sorry/">
+    <a href="https://cattailzz.github.io/">
         <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-cattail-brightgreen?style=for-the-badge">
     </a>
 </p>
