@@ -7,11 +7,32 @@
 - 💡 Passionate about full-stack development and business solutions
 - ✍️ Writing technical articles on [my blog](https://cattailzz.github.io/)
 
-### 🛠️ Tech Stack
-- **Backend**: Java, Spring Boot, Spring Cloud, MySQL
-- **Frontend**: React, Vue.js, TypeScript
-- **DevOps**: Docker, Kubernetes, CI/CD
-- **Others**: Linux, Git, RESTful API Design
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -27,11 +48,15 @@
     <a href="https://github.com/CatTailzz">
         <img src="https://img.shields.io/badge/GitHub-CatTailzz-black?style=for-the-badge&logo=github">
     </a>
-    <span>   </span>
-    <a href="https://twitter.com/your_twitter_handle">
-        <img src="https://img.shields.io/badge/Twitter-@your_twitter_handle-blue?style=for-the-badge&logo=twitter">
+    &nbsp;&nbsp;
+    <a href="https://leetcode-cn.com/u/cattailjj/">
+        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcattailjj%2Fcn%2F&logo=leetcode&logoColor=yellow">
     </a>
-    <span>   </span>
+    &nbsp;&nbsp;
+    <a href="https://x.com/cattailjj">
+        <img src="https://img.shields.io/badge/Twitter-@cattailjj-blue?style=for-the-badge&logo=twitter">
+    </a>
+    &nbsp;&nbsp;
     <a href="https://cattailzz.github.io/">
         <img src="https://img.shields.io/badge/Blog-cattail-brightgreen?style=for-the-badge">
     </a>
