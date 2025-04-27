@@ -7,10 +7,8 @@
 - 💡 Passionate about full-stack development and business solutions
 - ✍️ Writing technical articles on [my blog](https://cattailzz.github.io/)
 
-### 🛠️ Tech Stack
-<p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,go,redis,mysql,react,vue,ts,nestjs)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,go,redis,mysql,react,vue,ts,nestjs)](https://skillicons.dev)
+
 
 ## 📊 GitHub Analytics
 
