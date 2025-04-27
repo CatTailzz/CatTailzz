@@ -1,7 +1,19 @@
-### Hi there 👋 I’m CatTail <img src="https://komarev.com/ghpvc/?username=CatTailzz&color=brightgreen">
-🤗🤗
+## Hi there 👋 I'm CatTail
 
-### ⚙️ &nbsp;GitHub Analytics
+<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right" width="200"/>
+
+### 🎯 About Me
+- 🏢 Currently working as a Java Backend Developer at Huawei
+- 💡 Passionate about full-stack development and business solutions
+- ✍️ Writing technical articles on [my blog](https://cattailzz.github.io/)
+
+### 🛠️ Tech Stack
+- **Backend**: Java, Spring Boot, Spring Cloud, MySQL
+- **Frontend**: React, Vue.js, TypeScript
+- **DevOps**: Docker, Kubernetes, CI/CD
+- **Others**: Linux, Git, RESTful API Design
+
+## 📊 GitHub Analytics
 
 <p align="center">
     <a href="https://github.com/CatTailzz">
@@ -10,16 +22,18 @@
     </a>
 </p>
 
-### 🧑‍💻 &nbsp;More...
+## 🔍 Find Me
 <p align="center">
-    <a href="https://leetcode-cn.com/u/cattailjj/">
-        <img src="https://fc.dianhsu.top/lc?user=cattailjj&loc=cn&req=rating">
+    <a href="https://github.com/CatTailzz">
+        <img src="https://img.shields.io/badge/GitHub-CatTailzz-black?style=for-the-badge&logo=github">
     </a>
-    <a href="https://leetcode-cn.com/u/cattailjj/">
-        <img src="https://leetcode-badge.haozibi.dev/v1cn/solved/cattailjj.svg?style=for-the-badge&logo=leetcode">
+    <span>   </span>
+    <a href="https://twitter.com/your_twitter_handle">
+        <img src="https://img.shields.io/badge/Twitter-@your_twitter_handle-blue?style=for-the-badge&logo=twitter">
     </a>
-    <a href="https://now.404.com/sorry/">
-        <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-cattail-brightgreen?style=for-the-badge">
+    <span>   </span>
+    <a href="https://cattailzz.github.io/">
+        <img src="https://img.shields.io/badge/Blog-cattail-brightgreen?style=for-the-badge">
     </a>
 </p>
 
