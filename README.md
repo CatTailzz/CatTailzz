@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="style.css">
 ## Hi there 👋 I'm CatTail
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right" width="200"/>
@@ -10,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,go,redis,mysql,react,vue,ts,nestjs)](https://skillicons.dev)
 
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
     <a href="https://github.com/CatTailzz" style="text-decoration:none;">
@@ -19,12 +20,12 @@
     </a>
 </p>
 
-## 🔍 Find Me
+### 🔍 Find Me
 <p align="center">
     <a href="https://github.com/CatTailzz" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/GitHub-CatTailzz-black?style=for-the-badge&logo=github">
     </a>
-    <a href="https://x.com/cattailjj" style="text-decoration:none;">
+        <a href="https://x.com/cattailjj" style="text-decoration:none;">
         <img src="https://img.shields.io/badge/Twitter-@cattailjj-blue?style=for-the-badge&logo=twitter">
     </a>
     <a href="https://leetcode-cn.com/u/cattailjj/" style="text-decoration:none;">
