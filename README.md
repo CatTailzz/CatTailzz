@@ -12,33 +12,15 @@
 
 ### 📊 GitHub Analytics
 
-<!-- <p align="center">
+<p align="center">
     <a href="https://github.com/CatTailzz" style="text-decoration:none;">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CatTailzz&count_private=true&theme=algolia&show_icons=true&include_all_commits=true&card_width=400"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatTailzz&layout=compact&theme=algolia"/>
     </a>
-</p> -->
+</p>
 
-![](https://raw.githubusercontent.com/CatTailzz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CatTailzz/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/CatTailzz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/CatTailzz/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ### 🔍 Find Me
-<!-- <p align="center">
-    <a href="https://github.com/CatTailzz" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/GitHub-CatTailzz-black?style=for-the-badge&logo=github">
-    </a>
-        <a href="https://x.com/cattailjj" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Twitter-@cattailjj-blue?style=for-the-badge&logo=twitter">
-    </a>
-    <a href="https://leetcode-cn.com/u/cattailjj/" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcattailjj%2Fcn%2F&logo=leetcode&logoColor=yellow">
-    </a>
-    <a href="https://cattailzz.github.io/" style="text-decoration:none;">
-        <img src="https://img.shields.io/badge/Blog-cattail-brightgreen?style=for-the-badge">
-    </a>
-</p> -->
 
 <p align="center">
   
