@@ -3,12 +3,22 @@
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right" width="200"/>
 
 ### 🎯 About Me
-- 🏢 Currently working as a Java Backend Developer at Huawei
-- 💡 Passionate about full-stack development and business solutions
-- ✍️ Writing technical articles on [my blog](https://cattailzz.github.io/)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,go,redis,mysql,react,vue,ts,nestjs)](https://skillicons.dev)
+- 🏗️ AI compiler engineer — graph optimization & scheduling for NPU accelerators
+- 🔧 I work on the layer between a model and the metal: tiling, operator fusion, instruction scheduling, on-chip memory planning
+- 🔍 Interested in tile-level compilation & DSLs — MLIR, Triton, TVM, TileLang
+- ✍️ Writing at [my blog](https://cattailzz.github.io/)
 
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,c,pytorch,cmake,linux,git,vim)](https://skillicons.dev)
+
+### 🧩 What I'm into
+
+| Area | Focus |
+|---|---|
+| Compiler | IR design, transformation passes, lowering pipelines, codegen |
+| Scheduling | Instruction reordering, software pipelining, latency hiding, sync insertion |
+| Memory | On-chip buffer reuse, liveness analysis, multi-level memory hierarchies |
+| Performance | End-to-end profiling, roofline analysis, bottleneck attribution |
 
 ### 📊 GitHub Analytics
 
@@ -19,18 +29,15 @@
     </a>
 </p>
 
-
 ### 🔍 Find Me
 
 <p align="center">
-  
+
 [![GitHub](https://img.shields.io/badge/GitHub-CatTailzz-black?style=for-the-badge&logo=github)](https://github.com/CatTailzz)
 [![Twitter](https://img.shields.io/badge/Twitter-@cattailjj-blue?style=for-the-badge&logo=twitter)](https://x.com/cattailjj)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcattailjj%2Fcn%2F&logo=leetcode&logoColor=yellow)](https://leetcode-cn.com/u/cattailjj/)
 [![Blog](https://img.shields.io/badge/Blog-cattail-brightgreen?style=for-the-badge)](https://cattailzz.github.io/)
 
 </p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CatTailzz/CatTailzz/output/github-contribution-grid-snake-dark.svg">
