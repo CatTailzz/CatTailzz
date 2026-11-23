@@ -7,7 +7,6 @@
 - 🏗️ AI compiler engineer — graph optimization & scheduling for NPU accelerators
 - 🔧 I work on the layer between a model and the metal: tiling, operator fusion, instruction scheduling, on-chip memory planning
 - 🔍 Interested in tile-level compilation & DSLs — MLIR, Triton, TVM, TileLang
-- ✍️ Writing at [my blog](https://cattailzz.github.io/)
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,python,c,pytorch,cmake,linux,git,vim)](https://skillicons.dev)
 
@@ -35,7 +34,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-CatTailzz-black?style=for-the-badge&logo=github)](https://github.com/CatTailzz)
 [![Twitter](https://img.shields.io/badge/Twitter-@cattailjj-blue?style=for-the-badge&logo=twitter)](https://x.com/cattailjj)
-[![Blog](https://img.shields.io/badge/Blog-cattail-brightgreen?style=for-the-badge)](https://cattailzz.github.io/)
 
 </p>
 
